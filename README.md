@@ -1,16 +1,17 @@
-### Hi there 👋
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davialcantara__/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-alc%C3%A2ntara-35b5931a0/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dxvialcantara@gmail.com)
 
-<!--
-**divinurised/divinurised** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Davi Alcântara a Software Engeenering student at [Uni-Facef](https://www.unifacef.com.br/).
 
-Here are some ideas to get you started:
+I love the ReactJS ecosystem and productive libs. I'm always looking for new experiences and challenges as a Front-end aspirant!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning and Working 👨‍💻
+
+![ReactJS Badge](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![NextJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Fun Facts and More... 🎮
+
+- I code listening to [Lo-Fi](https://youtu.be/5qap5aO4i9A) 🎵
+- My code editor is Visual Studio Code, and my favorite theme is [Omni](https://github.com/getomni) 💅
+- My terminal is Hyper with Zsh and Oh My Zsh. 👨‍💻
