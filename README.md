@@ -8,7 +8,7 @@ I love the ReactJS ecosystem and productive libs. I'm always looking for new exp
 
 ### Learning and Working 👨‍💻
 
-![ReactJS Badge](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![NextJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![ReactJS Badge](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![NextJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![NodeJS Badge](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Fun Facts and More... 🎮
 
