@@ -14,4 +14,4 @@ I love the ReactJS ecosystem and productive libs. I'm always looking for new exp
 
 - I code listening to [Lo-Fi](https://youtu.be/5qap5aO4i9A) 🎵
 - My code editor is Visual Studio Code, and my favorite theme is [Omni](https://github.com/getomni) 💅
-- My terminal is Hyper with Zsh and Oh My Zsh. 👨‍💻
+- My terminal is PowerShell with Oh My Posh. 👨‍💻
